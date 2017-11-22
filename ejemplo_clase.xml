@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<curso>
+    <profesor>
+        <nombre>Jesús Diégeuez Nanclares</nombre>
+        <asignatura>Acceso a Datos</asignatura>
+        <especialidad>Desarrollo Software</especialidad>
+        <curso>2º</curso>
+        <modalidad>1</modalidad>
+    </profesor>
+    <alumnos>
+        <alumno>
+            <nombreAlumno>Carlos Hernández Crespo</nombreAlumno>
+            <edad>29</edad>
+            <direccion>C/Madrid, nº1, 28523, Rivas-Vaciamadrid</direccion>
+            <comentario>Residente en Madrid</comentario>
+            <telefono>666644400</telefono>
+        </alumno>
+        <alumno>
+            <nombreAlumno>Daniel Hernández Crespo</nombreAlumno>
+            <edad>27</edad>
+            <direccion>Calle Mayor nº 2</direccion>
+            <comentario>hermano</comentario>
+            <telefono>600000000</telefono>
+        </alumno>
+        <alumno>
+            <nombreAlumno>Ángela García González</nombreAlumno>
+            <edad>28</edad>
+            <direccion>C/cataluña,nº2</direccion>
+            <comentario>trabajando </comentario>
+            <telefono>666666666</telefono>
+        </alumno>
+    </alumnos>
+</curso>
+
